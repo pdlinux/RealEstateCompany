@@ -137,9 +137,9 @@
             <DependentOn>SplashForm.h</DependentOn>
             <BuildOrder>3</BuildOrder>
         </CppCompile>
-        <FormResources Include="MainForm.dfm"/>
         <FormResources Include="SplashForm.dfm"/>
         <FormResources Include="LoginForm.dfm"/>
+        <FormResources Include="MainForm.dfm"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
